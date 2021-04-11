@@ -1,0 +1,27 @@
+
+
+
+	body {
+	  text-align: center;
+	  background-color: #f0e8c5;
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+.column{
+    float:left;
+    width:40%;
+    text-align:center;
+    border:2px solid black;
+    
+}
+.row{
+    width:100%;
+ 
+}
+img{
+    width:450px;
+        height:250px;;
+}
